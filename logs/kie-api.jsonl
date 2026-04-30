@@ -14,3 +14,11 @@
 {"ts":"2026-04-28T22:20:00Z","step":"broll_palloncino","model":"veo3_fast","taskId":"0123027ef8d23bd351f5305341876efc","generationType":"TEXT_2_VIDEO","status":"success","resultUrl":"https://tempfile.aiquickdraw.com/v/0123027ef8d23bd351f5305341876efc_1777414749.mp4","local":"outputs/2026-04-28-keto-brucia/broll_palloncino.mp4"}
 {"ts":"2026-04-28T22:20:00Z","step":"broll_cortisolo","model":"veo3_fast","taskId":"47cef76867d6c45596b81e3794a7b0a9","generationType":"TEXT_2_VIDEO","status":"success","resultUrl":"https://tempfile.aiquickdraw.com/v/47cef76867d6c45596b81e3794a7b0a9_1777414758.mp4","local":"outputs/2026-04-28-keto-brucia/broll_cortisolo.mp4"}
 {"timestamp":"2026-04-30T14:30:16Z","model":"nano-banana-2","type":"still-character","taskId":"28b0d3dc59639cf1a4e43ef5df1bbb39","prompt":"competitor2-clone-character-still","status":"submitted"}
+{"timestamp":"2026-04-30T14:37:26Z","model":"veo3_fast","type":"clipA","taskId":"fd2e61c04d594c52d06aa6718e520be6","status":"submitted"}
+{"timestamp":"2026-04-30T14:37:26Z","model":"veo3_fast","type":"clipB","taskId":"977d6e07ab3a4f2db6a50f55bb5f1186","status":"submitted"}
+{"timestamp":"2026-04-30T14:37:27Z","model":"veo3_fast","type":"clipC","taskId":"9ec5eee65245a6020f734550f3eca060","status":"submitted"}
+{"timestamp":"2026-04-30T14:37:27Z","model":"veo3_fast","type":"clipD","taskId":"bdb699e13c3222d3131cc8f378f9251c","status":"submitted"}
+{"timestamp":"2026-04-30T14:37:27Z","model":"veo3_fast","type":"clipE","taskId":"deef14e6d3d5acd135300485d486268f","status":"submitted"}
+{"timestamp":"2026-04-30T14:37:27Z","model":"veo3_fast","type":"clipF","taskId":"fb4b64ba3e180b82eaf5b59a4695ffc0","status":"submitted"}
+{"timestamp":"2026-04-30T14:37:27Z","model":"veo3_fast","type":"clipG","taskId":"2755d30981280cf3fa4210a699ea5e12","status":"submitted"}
+{"timestamp":"2026-04-30T14:37:28Z","model":"veo3_fast","type":"clipH","taskId":"cacade22d01f1027223a866b7ee0efac","status":"submitted"}
