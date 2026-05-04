@@ -41,3 +41,5 @@
 {"timestamp":"2026-05-04T10:38:29Z","model":"veo3_fast","type":"eslow-clip5","taskId":"b305fe433d4b7dfa19c0ab7b85b11add","status":"submitted"}
 {"timestamp":"2026-05-04T10:40:04Z","model":"veo3_fast","type":"eslow-clip7","taskId":"959c075942fb5c44e91a52ad959c7769","status":"submitted"}
 {"timestamp":"2026-05-04T10:41:37Z","model":"veo3_fast","type":"eslow-clip9","taskId":"a039835bce1387cdab590636df4273a1","status":"submitted"}
+{"timestamp":"2026-05-04T11:25:07Z","model":"veo3_fast","type":"eslow-clip-prodotto","taskId":"4702735a46001d9b551a624d6d474116","status":"submitted"}
+{"timestamp":"2026-05-04T11:25:08Z","model":"veo3_fast","type":"eslow-broll-3d","taskId":"80619b3aa5395f5aa02a3f40fe0c5864","status":"submitted"}
