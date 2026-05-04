@@ -59,3 +59,25 @@
 {"timestamp":"2026-05-04T12:42:02Z","model":"veo3_fast","type":"REFERENCE_2_VIDEO","clip":"clip7","taskId":"165ba4e218a1af14b8f8ad443f8d099d","params":{"prompt":"Elegant Italian woman in her late 50s, silver-gray long hair, black jacket, warm","imageUrls":["http://tmpfiles.org/dl/36465818/step1-still-v2.jpg"]}}
 {"timestamp":"2026-05-04T12:42:02Z","model":"veo3_fast","type":"REFERENCE_2_VIDEO","clip":"clip8","taskId":"6329567ca8cca0461d18310de089b0fa","params":{"prompt":"Elegant Italian woman in her late 50s, silver-gray long hair, black jacket, warm","imageUrls":["http://tmpfiles.org/dl/36465818/step1-still-v2.jpg"]}}
 {"timestamp":"2026-05-04T12:42:02Z","model":"veo3_fast","type":"REFERENCE_2_VIDEO","clip":"clip9","taskId":"1de17558fee33a3b0c3e21848155cc2c","params":{"prompt":"Elegant Italian woman in her late 50s, silver-gray long hair, black jacket, warm","imageUrls":["http://tmpfiles.org/dl/36465818/step1-still-v2.jpg"]}}
+{"timestamp":"2026-05-04T17:44:25Z","model":"veo3_fast","type":"REFERENCE_2_VIDEO","clip":"clip1","taskId":"890a5d832750bec9c375ba7fb156d983"}
+{"timestamp":"2026-05-04T17:44:25Z","model":"veo3_fast","type":"REFERENCE_2_VIDEO","clip":"clip2","taskId":"15b67b1338e912d961af37edaba59333"}
+{"timestamp":"2026-05-04T17:44:25Z","model":"veo3_fast","type":"REFERENCE_2_VIDEO","clip":"clip3","taskId":"eb32d08323fc7e73a28d00e1617bfea9"}
+{"timestamp":"2026-05-04T17:44:25Z","model":"veo3_fast","type":"REFERENCE_2_VIDEO","clip":"clip4","taskId":"bae8f9ce5a214b295d050012c62c8b2e"}
+{"timestamp":"2026-05-04T17:44:25Z","model":"veo3_fast","type":"REFERENCE_2_VIDEO","clip":"clip5","taskId":"f65e6491da90f712d1e1f0fded035a2a"}
+{"timestamp":"2026-05-04T17:44:25Z","model":"veo3_fast","type":"REFERENCE_2_VIDEO","clip":"clip6","taskId":"2ce875379ae2bf73cc654765367896f0"}
+{"timestamp":"2026-05-04T17:44:25Z","model":"veo3_fast","type":"REFERENCE_2_VIDEO","clip":"clip7","taskId":"3517d704e9fdbc7bb7c610be210adc3c"}
+{"timestamp":"2026-05-04T17:44:25Z","model":"veo3_fast","type":"REFERENCE_2_VIDEO","clip":"clip8","taskId":"c789d213ebce23390c58f89824f0a6f5"}
+{"timestamp":"2026-05-04T17:44:51Z","model":"veo3_fast","type":"TEXT_2_VIDEO","clip":"broll_orologio","taskId":"0198f22b7dd685388d4187154b7bf0fc"}
+{"timestamp":"2026-05-04T17:44:51Z","model":"veo3_fast","type":"TEXT_2_VIDEO","clip":"broll_bagno","taskId":"d543690dc5fe0be30c4807873af152c7"}
+{"timestamp":"2026-05-04T17:44:51Z","model":"veo3_fast","type":"TEXT_2_VIDEO","clip":"broll_wc","taskId":"2e9481a76a525a5452c6c28e25578086"}
+{"timestamp":"2026-05-04T17:44:51Z","model":"veo3_fast","type":"TEXT_2_VIDEO","clip":"broll_bilancia","taskId":"8b3ab13a6cc1ce18b782a7fcab64906c"}
+{"timestamp":"2026-05-04T17:44:51Z","model":"veo3_fast","type":"TEXT_2_VIDEO","clip":"broll_intestino_bloccato","taskId":"3e192f365678fc671de3a8b5a1acf803"}
+{"timestamp":"2026-05-04T17:44:51Z","model":"veo3_fast","type":"TEXT_2_VIDEO","clip":"broll_scorie_frecce","taskId":"ed7576679cb9cb47521ccbc8bdc7a24f"}
+{"timestamp":"2026-05-04T17:44:51Z","model":"veo3_fast","type":"TEXT_2_VIDEO","clip":"broll_dieta","taskId":"684b46135ee406732872b69f51034f85"}
+{"timestamp":"2026-05-04T17:44:51Z","model":"veo3_fast","type":"TEXT_2_VIDEO","clip":"broll_grasso_week7","taskId":"c40e3c8d413b707ebad40220d8db21e6"}
+{"timestamp":"2026-05-04T17:44:51Z","model":"veo3_fast","type":"TEXT_2_VIDEO","clip":"broll_intestino_ore","taskId":"7adf0617d16e85c55b28212cca51217c"}
+{"timestamp":"2026-05-04T17:44:51Z","model":"veo3_fast","type":"TEXT_2_VIDEO","clip":"broll_rubinetto_chiuso","taskId":"adfd117f013f1108b5819321dd9c166e"}
+{"timestamp":"2026-05-04T17:44:51Z","model":"veo3_fast","type":"TEXT_2_VIDEO","clip":"broll_rubinetto_getto","taskId":"4d1985fe874bf79dc5d5372f69686a40"}
+{"timestamp":"2026-05-04T17:44:51Z","model":"veo3_fast","type":"TEXT_2_VIDEO","clip":"broll_capsaicina","taskId":"e3e5076193313d7affbc8e7b78319682"}
+{"timestamp":"2026-05-04T17:44:51Z","model":"veo3_fast","type":"TEXT_2_VIDEO","clip":"broll_intestino_attivo","taskId":"4f8d0cecd2d9096cec139bd47cfa9cfc"}
+{"timestamp":"2026-05-04T17:44:51Z","model":"veo3_fast","type":"TEXT_2_VIDEO","clip":"broll_orologio_48","taskId":"426256c93431c138fe674d9d56871c30"}
