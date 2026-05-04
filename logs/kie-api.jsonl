@@ -31,3 +31,4 @@
 {"timestamp":"2026-04-30T15:03:51Z","model":"veo3_fast","type":"clipH_v2_FIRST_LAST","taskId":"","status":"submitted"}
 {"timestamp":"2026-04-30T15:04:02Z","model":"veo3_fast","type":"clipH_v2_FIRST_LAST","taskId":"","status":"submitted"}
 {"timestamp":"2026-05-04T10:23:02Z","model":"nano-banana-2","type":"eslow-still","taskId":"26b9db48e8f9e47fca0b52d6b09acc6b","status":"submitted"}
+{"timestamp":"2026-05-04T10:28:19Z","model":"nano-banana-2","type":"eslow-still-v2","taskId":"059edabbe9126920c9129135b0f62b58","status":"submitted"}
