@@ -93,3 +93,8 @@
 {"timestamp":"2026-05-05T10:09:13Z","model":"veo3_fast","type":"REFERENCE_2_VIDEO","clip":"v2_c10","taskId":"f240de9b3ab894cd0ab6330b0d32f911"}
 {"timestamp":"2026-05-05T10:09:13Z","model":"veo3_fast","type":"REFERENCE_2_VIDEO","clip":"v2_c11","taskId":"bfc71e1f49c6fe3599c1ad38c77a170a"}
 {"timestamp":"2026-05-05T10:09:13Z","model":"veo3_fast","type":"REFERENCE_2_VIDEO","clip":"v2_c12","taskId":"4b191d0debfa326ed8b53d9047d7b06c"}
+{"timestamp":"2026-05-05T10:18:02Z","model":"veo3_fast","type":"REFERENCE_2_VIDEO","clip":"v2_c04_fix","taskId":"3101874167f6c0243a3043099bd3a43a"}
+{"timestamp":"2026-05-05T10:18:02Z","model":"veo3_fast","type":"REFERENCE_2_VIDEO","clip":"v2_c05_fix","taskId":"ab47f8e595e5ea4a05da4b8446c33971"}
+{"timestamp":"2026-05-05T10:18:02Z","model":"veo3_fast","type":"REFERENCE_2_VIDEO","clip":"v2_c07_fix","taskId":"f6369c8df16c92fe8e591af1e537d3ea"}
+{"timestamp":"2026-05-05T10:18:02Z","model":"veo3_fast","type":"REFERENCE_2_VIDEO","clip":"v2_c10_fix","taskId":"2820fe7879bd980614a3c45df8428739"}
+{"timestamp":"2026-05-05T10:18:02Z","model":"veo3_fast","type":"REFERENCE_2_VIDEO","clip":"v2_c11_fix","taskId":"c9827016a96db16af22c29a6d2e84d1f"}
