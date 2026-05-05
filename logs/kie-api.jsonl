@@ -1,2 +1,111 @@
 {"timestamp": "2026-04-20T23:37:05.666977+00:00", "endpoint": "POST /api/v1/veo/generate", "model": "veo3_fast", "taskId": "4c9a31a5bb61db65d10f1210d78cc08a", "request": {"aspect_ratio": "16:9", "resolution": "720p", "generationType": "TEXT_2_VIDEO", "imageInputCount": 0, "promptWordCount": 27, "duration": null, "output_format": null}, "response": {"state": null, "successFlag": 1, "creditsCharged": null, "generationTimeSec": 61, "resultUrls": ["https://tempfile.aiquickdraw.com/v/4c9a31a5bb61db65d10f1210d78cc08a_1776728273.mp4"], "error": null}, "session": {"folderName": "outputs/2026-04-20-migration-smoketest"}}
 {"timestamp": "2026-04-20T23:37:05.666977+00:00", "endpoint": "POST /api/v1/jobs/createTask", "model": "bytedance/seedance-2", "taskId": "da2f3b4d3826a124edf678dfec75645d", "request": {"aspect_ratio": "16:9", "resolution": "720p", "duration": 5, "generate_audio": false, "imageInputCount": 0, "promptWordCount": 18, "generationType": null, "output_format": null}, "response": {"state": "success", "successFlag": null, "creditsCharged": null, "generationTimeSec": 208, "resultUrls": ["https://tempfile.aiquickdraw.com/seedance/1776728421306-ci2gzptrrs8.mp4"], "error": null}, "session": {"folderName": "outputs/2026-04-20-migration-smoketest"}}
+{"ts":"2026-04-28T21:58:00Z","step":"step1-still-nanbanana2","model":"nano-banana-2","taskId":"7974be42d8874fdfa697a81c66c230e1","prompt":"Italian woman 50yo in car selfie holding Keto Brucia jar","aspect_ratio":"9:16","resolution":"2K","image_input":["https://tmpfiles.org/dl/35604971/keto-brucia-nobg.png"],"credits_before":2167,"status":"submitted"}
+{"ts":"2026-04-28T21:59:00Z","step":"step1-still-nanbanana2","model":"nano-banana-2","taskId":"7974be42d8874fdfa697a81c66c230e1","state":"success","costTime_s":33,"credits_after":2155,"credits_used":12,"resultUrl":"https://tempfile.aiquickdraw.com/image-format-converter/1777413713368-9dfoj2w7b3r.jpg","local":"outputs/2026-04-28-keto-brucia/step1-still.jpg"}
+{"ts":"2026-04-28T22:05:00Z","step":"step2-ugc-pt1","model":"sora-2-text-to-video","taskId":"97663fc0390a7418e24b2bb583c42fe9","prompt":"Italian woman 50yo car selfie UGC pt1 — pancia menopausa script","aspect_ratio":"portrait","n_frames":"15","status":"submitted"}
+{"ts":"2026-04-28T22:05:00Z","step":"step3-ugc-pt2","model":"sora-2-text-to-video","taskId":"cb00cc8c181936735c40fd2bb8e8db1b","prompt":"Italian woman 50yo car selfie UGC pt2 — cortisolo script","aspect_ratio":"portrait","n_frames":"15","status":"submitted"}
+{"ts":"2026-04-28T22:12:00Z","step":"clipA","model":"veo3_fast","taskId":"2c6f4d282873b6921f1ed40ca8ca088d","script":"Se qualcuno ti dicesse...scorreresti via","generationType":"REFERENCE_2_VIDEO","status":"submitted"}
+{"ts":"2026-04-28T22:12:00Z","step":"clipB","model":"veo3_fast","taskId":"3eef276b8787ba4b5688e04d2a3463b7","script":"Ma e se fosse...Quattro settimane non bastano","generationType":"REFERENCE_2_VIDEO","status":"submitted"}
+{"ts":"2026-04-28T22:12:00Z","step":"clipC","model":"veo3_fast","taskId":"28e1dc6b77df04eee031f2435bfaf858","script":"Hai accettato...Ma ecco cosa non sai","generationType":"REFERENCE_2_VIDEO","status":"submitted"}
+{"ts":"2026-04-28T22:12:00Z","step":"clipD","model":"veo3_fast","taskId":"3c5fa4a54a141385022fba4b1d21986b","script":"Il grasso...cortisolo blocca il grasso","generationType":"REFERENCE_2_VIDEO","status":"submitted"}
+{"ts":"2026-04-28T22:12:00Z","step":"clipE","model":"veo3_fast","taskId":"936317c1ad0cfefcefb26eb4f8d025c3","script":"Ecco perché niente...si sblocca in fretta","generationType":"REFERENCE_2_VIDEO","status":"submitted"}
+{"ts":"2026-04-28T22:12:00Z","step":"clipF","model":"veo3_fast","taskId":"fd0cf2bd9481b1a95581c0c8f8b3c5ea","script":"È quello che fa Keto Brucia...brucia","generationType":"REFERENCE_2_VIDEO","status":"submitted"}
+{"ts":"2026-04-28T22:20:00Z","step":"broll_specchio","model":"veo3_fast","taskId":"c3406347f57f7f424b4abed15f8b1a51","generationType":"TEXT_2_VIDEO","status":"success","resultUrl":"https://tempfile.aiquickdraw.com/v/c3406347f57f7f424b4abed15f8b1a51_1777414741.mp4","local":"outputs/2026-04-28-keto-brucia/broll_specchio.mp4"}
+{"ts":"2026-04-28T22:20:00Z","step":"broll_palloncino","model":"veo3_fast","taskId":"0123027ef8d23bd351f5305341876efc","generationType":"TEXT_2_VIDEO","status":"success","resultUrl":"https://tempfile.aiquickdraw.com/v/0123027ef8d23bd351f5305341876efc_1777414749.mp4","local":"outputs/2026-04-28-keto-brucia/broll_palloncino.mp4"}
+{"ts":"2026-04-28T22:20:00Z","step":"broll_cortisolo","model":"veo3_fast","taskId":"47cef76867d6c45596b81e3794a7b0a9","generationType":"TEXT_2_VIDEO","status":"success","resultUrl":"https://tempfile.aiquickdraw.com/v/47cef76867d6c45596b81e3794a7b0a9_1777414758.mp4","local":"outputs/2026-04-28-keto-brucia/broll_cortisolo.mp4"}
+{"timestamp":"2026-04-30T14:30:16Z","model":"nano-banana-2","type":"still-character","taskId":"28b0d3dc59639cf1a4e43ef5df1bbb39","prompt":"competitor2-clone-character-still","status":"submitted"}
+{"timestamp":"2026-04-30T14:37:26Z","model":"veo3_fast","type":"clipA","taskId":"fd2e61c04d594c52d06aa6718e520be6","status":"submitted"}
+{"timestamp":"2026-04-30T14:37:26Z","model":"veo3_fast","type":"clipB","taskId":"977d6e07ab3a4f2db6a50f55bb5f1186","status":"submitted"}
+{"timestamp":"2026-04-30T14:37:27Z","model":"veo3_fast","type":"clipC","taskId":"9ec5eee65245a6020f734550f3eca060","status":"submitted"}
+{"timestamp":"2026-04-30T14:37:27Z","model":"veo3_fast","type":"clipD","taskId":"bdb699e13c3222d3131cc8f378f9251c","status":"submitted"}
+{"timestamp":"2026-04-30T14:37:27Z","model":"veo3_fast","type":"clipE","taskId":"deef14e6d3d5acd135300485d486268f","status":"submitted"}
+{"timestamp":"2026-04-30T14:37:27Z","model":"veo3_fast","type":"clipF","taskId":"fb4b64ba3e180b82eaf5b59a4695ffc0","status":"submitted"}
+{"timestamp":"2026-04-30T14:37:27Z","model":"veo3_fast","type":"clipG","taskId":"2755d30981280cf3fa4210a699ea5e12","status":"submitted"}
+{"timestamp":"2026-04-30T14:37:28Z","model":"veo3_fast","type":"clipH","taskId":"cacade22d01f1027223a866b7ee0efac","status":"submitted"}
+{"timestamp":"2026-04-30T15:03:49Z","model":"veo3_fast","type":"clipB_v2_FIRST_LAST","taskId":"482a52372c820f36771a302585b7cd38","status":"submitted"}
+{"timestamp":"2026-04-30T15:03:50Z","model":"veo3_fast","type":"clipC_v2_FIRST_LAST","taskId":"e62c7e28829dd851766e0b808ec1bcb6","status":"submitted"}
+{"timestamp":"2026-04-30T15:03:50Z","model":"veo3_fast","type":"clipD_v2_FIRST_LAST","taskId":"ca06954a3d6a7acaa2107bfd970b8bbd","status":"submitted"}
+{"timestamp":"2026-04-30T15:03:50Z","model":"veo3_fast","type":"clipE_v2_FIRST_LAST","taskId":"44e6df9588f56b2faf34dc2a82e9d03e","status":"submitted"}
+{"timestamp":"2026-04-30T15:03:50Z","model":"veo3_fast","type":"clipF_v2_FIRST_LAST","taskId":"34c642dd5011caec6a3e7376143e6113","status":"submitted"}
+{"timestamp":"2026-04-30T15:03:51Z","model":"veo3_fast","type":"clipG_v2_FIRST_LAST","taskId":"e85ba23c98c32f3cd8b8d858503486d8","status":"submitted"}
+{"timestamp":"2026-04-30T15:03:51Z","model":"veo3_fast","type":"clipH_v2_FIRST_LAST","taskId":"","status":"submitted"}
+{"timestamp":"2026-04-30T15:04:02Z","model":"veo3_fast","type":"clipH_v2_FIRST_LAST","taskId":"","status":"submitted"}
+{"timestamp":"2026-05-04T10:23:02Z","model":"nano-banana-2","type":"eslow-still","taskId":"26b9db48e8f9e47fca0b52d6b09acc6b","status":"submitted"}
+{"timestamp":"2026-05-04T10:28:19Z","model":"nano-banana-2","type":"eslow-still-v2","taskId":"059edabbe9126920c9129135b0f62b58","status":"submitted"}
+{"timestamp":"2026-05-04T10:32:44Z","model":"veo3_fast","type":"eslow-clip1","taskId":"b64e4fb10ed568619dc884f528cd9f4b","status":"submitted"}
+{"timestamp":"2026-05-04T10:32:44Z","model":"veo3_fast","type":"eslow-broll6","taskId":"de454b54d81dfff0b7200d7d452aff05","status":"submitted"}
+{"timestamp":"2026-05-04T10:32:44Z","model":"veo3_fast","type":"eslow-broll8","taskId":"da1de25891cee529507b53d2a3f29b0d","status":"submitted"}
+{"timestamp":"2026-05-04T10:33:50Z","model":"veo3_fast","type":"eslow-clip2","taskId":"b7185a80b5b05a61e7c1683c038237a7","status":"submitted"}
+{"timestamp":"2026-05-04T10:35:23Z","model":"veo3_fast","type":"eslow-clip3","taskId":"c1b5b136635dbf83b43938dd0c6ed729","status":"submitted"}
+{"timestamp":"2026-05-04T10:36:56Z","model":"veo3_fast","type":"eslow-clip4","taskId":"c2a56c2070e78c7018d9160be37287e5","status":"submitted"}
+{"timestamp":"2026-05-04T10:38:29Z","model":"veo3_fast","type":"eslow-clip5","taskId":"b305fe433d4b7dfa19c0ab7b85b11add","status":"submitted"}
+{"timestamp":"2026-05-04T10:40:04Z","model":"veo3_fast","type":"eslow-clip7","taskId":"959c075942fb5c44e91a52ad959c7769","status":"submitted"}
+{"timestamp":"2026-05-04T10:41:37Z","model":"veo3_fast","type":"eslow-clip9","taskId":"a039835bce1387cdab590636df4273a1","status":"submitted"}
+{"timestamp":"2026-05-04T11:25:07Z","model":"veo3_fast","type":"eslow-clip-prodotto","taskId":"4702735a46001d9b551a624d6d474116","status":"submitted"}
+{"timestamp":"2026-05-04T11:25:08Z","model":"veo3_fast","type":"eslow-broll-3d","taskId":"80619b3aa5395f5aa02a3f40fe0c5864","status":"submitted"}
+{"timestamp":"2026-05-04T12:39:34Z","model":"veo3_fast","type":"eslow-v3-clip1","taskId":"de44135053ed1fda2898943a6c10f5ef","status":"submitted"}
+{"timestamp":"2026-05-04T12:39:34Z","model":"veo3_fast","type":"eslow-v3-clip2","taskId":"c65e7c951df0e084327e01f1be0160e7","status":"submitted"}
+{"timestamp":"2026-05-04T12:39:34Z","model":"veo3_fast","type":"eslow-v3-clip3","taskId":"bdbdba6ebc77d2825e032d25d3246be9","status":"submitted"}
+{"timestamp":"2026-05-04T12:39:35Z","model":"veo3_fast","type":"eslow-v3-clip4","taskId":"8309d7b27c5cfeba84c11a8787d59385","status":"submitted"}
+{"timestamp":"2026-05-04T12:39:35Z","model":"veo3_fast","type":"eslow-v3-clip5","taskId":"39d43928401f8d54fecc774befb606fe","status":"submitted"}
+{"timestamp":"2026-05-04T12:39:35Z","model":"veo3_fast","type":"eslow-v3-clip7","taskId":"e8f3b3319f4c21553a53b185c6af4fb3","status":"submitted"}
+{"timestamp":"2026-05-04T12:39:35Z","model":"veo3_fast","type":"eslow-v3-clip8","taskId":"d0eca6b2529e02a45163af624800555e","status":"submitted"}
+{"timestamp":"2026-05-04T12:39:36Z","model":"veo3_fast","type":"eslow-v3-clip9","taskId":"9d7edcd4d7877b78398935827e95eb2f","status":"submitted"}
+{"timestamp":"2026-05-04T12:42:02Z","model":"veo3_fast","type":"REFERENCE_2_VIDEO","clip":"clip1","taskId":"d8cd2a8eceb8d971a6f6b62b6633eb64","params":{"prompt":"Elegant Italian woman in her late 50s, silver-gray long hair, black jacket, warm","imageUrls":["http://tmpfiles.org/dl/36465818/step1-still-v2.jpg"]}}
+{"timestamp":"2026-05-04T12:42:02Z","model":"veo3_fast","type":"REFERENCE_2_VIDEO","clip":"clip2","taskId":"e3a88f0b64f4eaaaa4997a1f15c6b454","params":{"prompt":"Elegant Italian woman in her late 50s, silver-gray long hair, black jacket, warm","imageUrls":["http://tmpfiles.org/dl/36465818/step1-still-v2.jpg"]}}
+{"timestamp":"2026-05-04T12:42:02Z","model":"veo3_fast","type":"REFERENCE_2_VIDEO","clip":"clip3","taskId":"5f5f8a627e96c9e30d2db47ae2553116","params":{"prompt":"Elegant Italian woman in her late 50s, silver-gray long hair, black jacket, warm","imageUrls":["http://tmpfiles.org/dl/36465818/step1-still-v2.jpg"]}}
+{"timestamp":"2026-05-04T12:42:02Z","model":"veo3_fast","type":"REFERENCE_2_VIDEO","clip":"clip4","taskId":"045ecde649bfdc180327a936b834b4b6","params":{"prompt":"Elegant Italian woman in her late 50s, silver-gray long hair, black jacket, warm","imageUrls":["http://tmpfiles.org/dl/36465818/step1-still-v2.jpg"]}}
+{"timestamp":"2026-05-04T12:42:02Z","model":"veo3_fast","type":"REFERENCE_2_VIDEO","clip":"clip5","taskId":"ca10f7c9c6fdf046bdb710fb45eacbaa","params":{"prompt":"Elegant Italian woman in her late 50s, silver-gray long hair, black jacket, warm","imageUrls":["http://tmpfiles.org/dl/36465818/step1-still-v2.jpg"]}}
+{"timestamp":"2026-05-04T12:42:02Z","model":"veo3_fast","type":"REFERENCE_2_VIDEO","clip":"clip7","taskId":"165ba4e218a1af14b8f8ad443f8d099d","params":{"prompt":"Elegant Italian woman in her late 50s, silver-gray long hair, black jacket, warm","imageUrls":["http://tmpfiles.org/dl/36465818/step1-still-v2.jpg"]}}
+{"timestamp":"2026-05-04T12:42:02Z","model":"veo3_fast","type":"REFERENCE_2_VIDEO","clip":"clip8","taskId":"6329567ca8cca0461d18310de089b0fa","params":{"prompt":"Elegant Italian woman in her late 50s, silver-gray long hair, black jacket, warm","imageUrls":["http://tmpfiles.org/dl/36465818/step1-still-v2.jpg"]}}
+{"timestamp":"2026-05-04T12:42:02Z","model":"veo3_fast","type":"REFERENCE_2_VIDEO","clip":"clip9","taskId":"1de17558fee33a3b0c3e21848155cc2c","params":{"prompt":"Elegant Italian woman in her late 50s, silver-gray long hair, black jacket, warm","imageUrls":["http://tmpfiles.org/dl/36465818/step1-still-v2.jpg"]}}
+{"timestamp":"2026-05-04T17:44:25Z","model":"veo3_fast","type":"REFERENCE_2_VIDEO","clip":"clip1","taskId":"890a5d832750bec9c375ba7fb156d983"}
+{"timestamp":"2026-05-04T17:44:25Z","model":"veo3_fast","type":"REFERENCE_2_VIDEO","clip":"clip2","taskId":"15b67b1338e912d961af37edaba59333"}
+{"timestamp":"2026-05-04T17:44:25Z","model":"veo3_fast","type":"REFERENCE_2_VIDEO","clip":"clip3","taskId":"eb32d08323fc7e73a28d00e1617bfea9"}
+{"timestamp":"2026-05-04T17:44:25Z","model":"veo3_fast","type":"REFERENCE_2_VIDEO","clip":"clip4","taskId":"bae8f9ce5a214b295d050012c62c8b2e"}
+{"timestamp":"2026-05-04T17:44:25Z","model":"veo3_fast","type":"REFERENCE_2_VIDEO","clip":"clip5","taskId":"f65e6491da90f712d1e1f0fded035a2a"}
+{"timestamp":"2026-05-04T17:44:25Z","model":"veo3_fast","type":"REFERENCE_2_VIDEO","clip":"clip6","taskId":"2ce875379ae2bf73cc654765367896f0"}
+{"timestamp":"2026-05-04T17:44:25Z","model":"veo3_fast","type":"REFERENCE_2_VIDEO","clip":"clip7","taskId":"3517d704e9fdbc7bb7c610be210adc3c"}
+{"timestamp":"2026-05-04T17:44:25Z","model":"veo3_fast","type":"REFERENCE_2_VIDEO","clip":"clip8","taskId":"c789d213ebce23390c58f89824f0a6f5"}
+{"timestamp":"2026-05-04T17:44:51Z","model":"veo3_fast","type":"TEXT_2_VIDEO","clip":"broll_orologio","taskId":"0198f22b7dd685388d4187154b7bf0fc"}
+{"timestamp":"2026-05-04T17:44:51Z","model":"veo3_fast","type":"TEXT_2_VIDEO","clip":"broll_bagno","taskId":"d543690dc5fe0be30c4807873af152c7"}
+{"timestamp":"2026-05-04T17:44:51Z","model":"veo3_fast","type":"TEXT_2_VIDEO","clip":"broll_wc","taskId":"2e9481a76a525a5452c6c28e25578086"}
+{"timestamp":"2026-05-04T17:44:51Z","model":"veo3_fast","type":"TEXT_2_VIDEO","clip":"broll_bilancia","taskId":"8b3ab13a6cc1ce18b782a7fcab64906c"}
+{"timestamp":"2026-05-04T17:44:51Z","model":"veo3_fast","type":"TEXT_2_VIDEO","clip":"broll_intestino_bloccato","taskId":"3e192f365678fc671de3a8b5a1acf803"}
+{"timestamp":"2026-05-04T17:44:51Z","model":"veo3_fast","type":"TEXT_2_VIDEO","clip":"broll_scorie_frecce","taskId":"ed7576679cb9cb47521ccbc8bdc7a24f"}
+{"timestamp":"2026-05-04T17:44:51Z","model":"veo3_fast","type":"TEXT_2_VIDEO","clip":"broll_dieta","taskId":"684b46135ee406732872b69f51034f85"}
+{"timestamp":"2026-05-04T17:44:51Z","model":"veo3_fast","type":"TEXT_2_VIDEO","clip":"broll_grasso_week7","taskId":"c40e3c8d413b707ebad40220d8db21e6"}
+{"timestamp":"2026-05-04T17:44:51Z","model":"veo3_fast","type":"TEXT_2_VIDEO","clip":"broll_intestino_ore","taskId":"7adf0617d16e85c55b28212cca51217c"}
+{"timestamp":"2026-05-04T17:44:51Z","model":"veo3_fast","type":"TEXT_2_VIDEO","clip":"broll_rubinetto_chiuso","taskId":"adfd117f013f1108b5819321dd9c166e"}
+{"timestamp":"2026-05-04T17:44:51Z","model":"veo3_fast","type":"TEXT_2_VIDEO","clip":"broll_rubinetto_getto","taskId":"4d1985fe874bf79dc5d5372f69686a40"}
+{"timestamp":"2026-05-04T17:44:51Z","model":"veo3_fast","type":"TEXT_2_VIDEO","clip":"broll_capsaicina","taskId":"e3e5076193313d7affbc8e7b78319682"}
+{"timestamp":"2026-05-04T17:44:51Z","model":"veo3_fast","type":"TEXT_2_VIDEO","clip":"broll_intestino_attivo","taskId":"4f8d0cecd2d9096cec139bd47cfa9cfc"}
+{"timestamp":"2026-05-04T17:44:51Z","model":"veo3_fast","type":"TEXT_2_VIDEO","clip":"broll_orologio_48","taskId":"426256c93431c138fe674d9d56871c30"}
+{"timestamp":"2026-05-05T10:09:13Z","model":"veo3_fast","type":"REFERENCE_2_VIDEO","clip":"v2_c01","taskId":"1f12df40e78cf7bf7d89ded8a3471e97"}
+{"timestamp":"2026-05-05T10:09:13Z","model":"veo3_fast","type":"REFERENCE_2_VIDEO","clip":"v2_c02","taskId":"4df29787525da1b58c2181d5985b69ed"}
+{"timestamp":"2026-05-05T10:09:13Z","model":"veo3_fast","type":"REFERENCE_2_VIDEO","clip":"v2_c03","taskId":"3da8881f04a2431d2ecea6a9948e88f3"}
+{"timestamp":"2026-05-05T10:09:13Z","model":"veo3_fast","type":"REFERENCE_2_VIDEO","clip":"v2_c04","taskId":"fbc899da258e0e7517d7e0d6a72903e0"}
+{"timestamp":"2026-05-05T10:09:13Z","model":"veo3_fast","type":"REFERENCE_2_VIDEO","clip":"v2_c05","taskId":"777d1fc2ba3adddb592ef1bdda95f2ad"}
+{"timestamp":"2026-05-05T10:09:13Z","model":"veo3_fast","type":"REFERENCE_2_VIDEO","clip":"v2_c06","taskId":"f104a8bf9abb1a038cb5d73f9a2cfeab"}
+{"timestamp":"2026-05-05T10:09:13Z","model":"veo3_fast","type":"REFERENCE_2_VIDEO","clip":"v2_c07","taskId":"658626fdefe785b276ac51e90c5b06f4"}
+{"timestamp":"2026-05-05T10:09:13Z","model":"veo3_fast","type":"REFERENCE_2_VIDEO","clip":"v2_c08","taskId":"f9ed472aec9a07cf9fa731fead2b8137"}
+{"timestamp":"2026-05-05T10:09:13Z","model":"veo3_fast","type":"REFERENCE_2_VIDEO","clip":"v2_c09","taskId":"8a50186391351eef978697a0a98914e3"}
+{"timestamp":"2026-05-05T10:09:13Z","model":"veo3_fast","type":"REFERENCE_2_VIDEO","clip":"v2_c10","taskId":"f240de9b3ab894cd0ab6330b0d32f911"}
+{"timestamp":"2026-05-05T10:09:13Z","model":"veo3_fast","type":"REFERENCE_2_VIDEO","clip":"v2_c11","taskId":"bfc71e1f49c6fe3599c1ad38c77a170a"}
+{"timestamp":"2026-05-05T10:09:13Z","model":"veo3_fast","type":"REFERENCE_2_VIDEO","clip":"v2_c12","taskId":"4b191d0debfa326ed8b53d9047d7b06c"}
+{"timestamp":"2026-05-05T10:18:02Z","model":"veo3_fast","type":"REFERENCE_2_VIDEO","clip":"v2_c04_fix","taskId":"3101874167f6c0243a3043099bd3a43a"}
+{"timestamp":"2026-05-05T10:18:02Z","model":"veo3_fast","type":"REFERENCE_2_VIDEO","clip":"v2_c05_fix","taskId":"ab47f8e595e5ea4a05da4b8446c33971"}
+{"timestamp":"2026-05-05T10:18:02Z","model":"veo3_fast","type":"REFERENCE_2_VIDEO","clip":"v2_c07_fix","taskId":"f6369c8df16c92fe8e591af1e537d3ea"}
+{"timestamp":"2026-05-05T10:18:02Z","model":"veo3_fast","type":"REFERENCE_2_VIDEO","clip":"v2_c10_fix","taskId":"2820fe7879bd980614a3c45df8428739"}
+{"timestamp":"2026-05-05T10:18:02Z","model":"veo3_fast","type":"REFERENCE_2_VIDEO","clip":"v2_c11_fix","taskId":"c9827016a96db16af22c29a6d2e84d1f"}
+{"timestamp":"2026-05-05T11:18:37Z","model":"veo3_fast","type":"REFERENCE_2_VIDEO","clip":"v2_c02_fix","taskId":"dda80b93b7fb6e903b565f3a6dec0915"}
+{"timestamp":"2026-05-05T11:18:37Z","model":"veo3_fast","type":"REFERENCE_2_VIDEO","clip":"v2_c04_fix2","taskId":"0998edd1eb63750d19c93452411675f7"}
+{"timestamp":"2026-05-05T20:38:13Z","model":"veo3_fast","type":"REFERENCE_2_VIDEO","clip":"c01","taskId":"252baf22327465ed9760bbe3b7fa4cd5"}
+{"timestamp":"2026-05-05T20:38:13Z","model":"veo3_fast","type":"REFERENCE_2_VIDEO","clip":"c02","taskId":"665574c954375ce3367485d627c86fdd"}
+{"timestamp":"2026-05-05T20:38:13Z","model":"veo3_fast","type":"REFERENCE_2_VIDEO","clip":"c03","taskId":"b33af749e5f798219ee798afd72588c0"}
+{"timestamp":"2026-05-05T20:38:13Z","model":"veo3_fast","type":"REFERENCE_2_VIDEO","clip":"c04","taskId":"b8f58b891a449db38528718be439409b"}
+{"timestamp":"2026-05-05T20:38:13Z","model":"veo3_fast","type":"REFERENCE_2_VIDEO","clip":"c05","taskId":"b5b8e7733ae0f87b28f69be03da620ab"}
+{"timestamp":"2026-05-05T20:38:13Z","model":"veo3_fast","type":"REFERENCE_2_VIDEO","clip":"c06","taskId":"69a97b845646094042dd6188e75246a1"}
+{"timestamp":"2026-05-05T20:38:13Z","model":"veo3_fast","type":"REFERENCE_2_VIDEO","clip":"c07","taskId":"9165a0e5ace0ce71d984e1e801ff4c4f"}
+{"timestamp":"2026-05-05T20:38:13Z","model":"veo3_fast","type":"REFERENCE_2_VIDEO","clip":"c08","taskId":"4ecdbf405a54181e39a5d506276dd81c"}
+{"timestamp":"2026-05-05T20:38:13Z","model":"veo3_fast","type":"REFERENCE_2_VIDEO","clip":"c09","taskId":"7de5f35397625f0d761ab1ca91c94be2"}
