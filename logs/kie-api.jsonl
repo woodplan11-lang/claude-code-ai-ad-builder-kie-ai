@@ -81,3 +81,15 @@
 {"timestamp":"2026-05-04T17:44:51Z","model":"veo3_fast","type":"TEXT_2_VIDEO","clip":"broll_capsaicina","taskId":"e3e5076193313d7affbc8e7b78319682"}
 {"timestamp":"2026-05-04T17:44:51Z","model":"veo3_fast","type":"TEXT_2_VIDEO","clip":"broll_intestino_attivo","taskId":"4f8d0cecd2d9096cec139bd47cfa9cfc"}
 {"timestamp":"2026-05-04T17:44:51Z","model":"veo3_fast","type":"TEXT_2_VIDEO","clip":"broll_orologio_48","taskId":"426256c93431c138fe674d9d56871c30"}
+{"timestamp":"2026-05-05T10:09:13Z","model":"veo3_fast","type":"REFERENCE_2_VIDEO","clip":"v2_c01","taskId":"1f12df40e78cf7bf7d89ded8a3471e97"}
+{"timestamp":"2026-05-05T10:09:13Z","model":"veo3_fast","type":"REFERENCE_2_VIDEO","clip":"v2_c02","taskId":"4df29787525da1b58c2181d5985b69ed"}
+{"timestamp":"2026-05-05T10:09:13Z","model":"veo3_fast","type":"REFERENCE_2_VIDEO","clip":"v2_c03","taskId":"3da8881f04a2431d2ecea6a9948e88f3"}
+{"timestamp":"2026-05-05T10:09:13Z","model":"veo3_fast","type":"REFERENCE_2_VIDEO","clip":"v2_c04","taskId":"fbc899da258e0e7517d7e0d6a72903e0"}
+{"timestamp":"2026-05-05T10:09:13Z","model":"veo3_fast","type":"REFERENCE_2_VIDEO","clip":"v2_c05","taskId":"777d1fc2ba3adddb592ef1bdda95f2ad"}
+{"timestamp":"2026-05-05T10:09:13Z","model":"veo3_fast","type":"REFERENCE_2_VIDEO","clip":"v2_c06","taskId":"f104a8bf9abb1a038cb5d73f9a2cfeab"}
+{"timestamp":"2026-05-05T10:09:13Z","model":"veo3_fast","type":"REFERENCE_2_VIDEO","clip":"v2_c07","taskId":"658626fdefe785b276ac51e90c5b06f4"}
+{"timestamp":"2026-05-05T10:09:13Z","model":"veo3_fast","type":"REFERENCE_2_VIDEO","clip":"v2_c08","taskId":"f9ed472aec9a07cf9fa731fead2b8137"}
+{"timestamp":"2026-05-05T10:09:13Z","model":"veo3_fast","type":"REFERENCE_2_VIDEO","clip":"v2_c09","taskId":"8a50186391351eef978697a0a98914e3"}
+{"timestamp":"2026-05-05T10:09:13Z","model":"veo3_fast","type":"REFERENCE_2_VIDEO","clip":"v2_c10","taskId":"f240de9b3ab894cd0ab6330b0d32f911"}
+{"timestamp":"2026-05-05T10:09:13Z","model":"veo3_fast","type":"REFERENCE_2_VIDEO","clip":"v2_c11","taskId":"bfc71e1f49c6fe3599c1ad38c77a170a"}
+{"timestamp":"2026-05-05T10:09:13Z","model":"veo3_fast","type":"REFERENCE_2_VIDEO","clip":"v2_c12","taskId":"4b191d0debfa326ed8b53d9047d7b06c"}
